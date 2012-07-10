@@ -92,3 +92,26 @@ aside p {
 	    font-style: italic; 
        	color: #99f;
 }  
+
+article > section video {
+	height: 200px;
+	margin-left: 180px;
+}
+	
+article > section div.no-html5-video{
+	height: 20px;
+	text-align: center;
+	color: #000090;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: bold ;
+	background-color: #99f;
+}
+
+	
+footer p {
+	text-align: center;
+	font-size: 12px;
+	color: #888;
+	margin-top: 24px;
+}
